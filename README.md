@@ -1,4 +1,4 @@
-# trivon-Ecommerce
+# Trivon-Ecommerce
 ![image](githubimage/4.jpeg)
 ![image](githubimage/2.jpeg)
 ![image](githubimage/1.jpeg)
