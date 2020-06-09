@@ -1,2 +1,2 @@
 # trivon-Ecommerce
-![img](githubimag/1.jpeg)
+![image](githubimag/1.jpeg)
